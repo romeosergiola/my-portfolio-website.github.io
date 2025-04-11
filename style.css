@@ -39,7 +39,22 @@ body {
    display: flex;
    gap: 50px;
 }
+.praktika {
+   margin-top: 50px;
+}
+.praktika-conteiner {
+   display: flex;
+   justify-content: space-around;
+   background-color: rgb(233, 223, 161);
+   
+}
+#praktika-place {
+   max-width: 30%;
+}
 
+.praktika-component>h5 {
+   text-align: center;
+}
 .hardskills {
    display: flex;
 }
